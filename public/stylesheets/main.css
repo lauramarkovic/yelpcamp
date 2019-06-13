@@ -1,0 +1,15 @@
+#imgpadding {
+    padding: 0;
+}
+
+.delete-form {
+    display: inline;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail .caption {
+    padding: 9px;
+}
